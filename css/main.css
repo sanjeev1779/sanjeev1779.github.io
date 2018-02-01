@@ -1,0 +1,30 @@
+body {
+    font-size: 75% font-family:verdana, arial, 'sans serif';
+    background-color: #FFFFFF;
+    color: #000000;
+    margin: 10px;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+h3 {
+    font-size: 100%;
+}
+
+th {
+    background-color: #000000;
+}
+
+ul {
+    list-style: circle;
+}
+
+ol {
+    list-style: upper-roman;
+}
