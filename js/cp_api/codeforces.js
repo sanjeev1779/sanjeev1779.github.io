@@ -14,7 +14,6 @@ var Codeforces = {
                     $(".codeforces .max_rating_category").text(userinfo["maxRank"]);
                     $(".codeforces .cur_rating").text(userinfo["rating"]);
                     $(".codeforces .cur_rating_category").text(userinfo["rank"]);
-
                 }
             },
             error: function(data) {
