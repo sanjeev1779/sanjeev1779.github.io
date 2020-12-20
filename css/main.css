@@ -1,3 +1,8 @@
+body {
+	background: black;
+	color: white;
+}
+
 .page-container {
 	margin-left: 200px;
 }
@@ -5,6 +10,7 @@
 a {
 	text-decoration: none;
 	font-family: monospace;
+	color: white;
 }
 
 a:hover {
@@ -28,7 +34,7 @@ a:hover {
 
 .about-me {
 	display: inline-block;
-	margin-left: 50px; 
+	margin-left: 50px;
 }
 
 footer {
