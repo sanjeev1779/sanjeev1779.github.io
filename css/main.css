@@ -1,0 +1,50 @@
+.page-container {
+	margin-left: 200px;
+}
+
+a {
+	text-decoration: none;
+	font-family: monospace;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.page-header-title {
+	margin-left: 100px;
+	font-weight: 600;
+}
+
+.page-content {
+	margin-top: 50px;
+	width: 1200px;
+}
+
+
+.profile-image {
+	float: left;
+}
+
+.about-me {
+	display: inline-block;
+	margin-left: 50px; 
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+footer li {
+	display: inline;
+	margin-left: 10px;
+}
+
+footer li:hover{
+  font-size: 1.5em;
+  transition: 1s ease-out;
+}
