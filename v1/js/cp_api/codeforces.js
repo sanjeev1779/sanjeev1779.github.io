@@ -1,5 +1,5 @@
 var Codeforces = {
-    userinfo_url: "http://codeforces.com/api/user.info",
+    userinfo_url: "https://codeforces.com/api/user.info",
     handle: "sanjeev1779",
 
     getUserInfo: function() {
